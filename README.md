@@ -2,7 +2,9 @@
 wmao
 
 ## WHY RUNNING THIS SCRIPT 
-reserve one-hour(only）tennis session from tennis.paris.com
+reserve one-hour(only）tennis session from https://tennis.paris.fr/
+
+réserver une heure (une session) sur le site [PARIS TENNIS](https://tennis.paris.fr/)
 
 ## HOW TO RUN THIS SCRIPT
 - install python > 3.0.0 to launch this script.
